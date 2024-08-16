@@ -1,8 +1,8 @@
-# SmartAC Module
+# Smart Air Conditioner Design Using Verilog
 
 ## Overview
 
-The `SmartAC` module is a Verilog hardware description for a simple smart air conditioning system. It controls the operating mode, fan speed, and displays the current mode on a 7-segment display. The module is designed to be integrated into an FPGA or similar digital hardware for real-time operation.
+The `SmartAC` is a Verilog hardware description for a simple smart air conditioning system. It controls the operating mode, fan speed, and displays the current mode on a 7-segment display. The module is designed to be integrated into an FPGA or similar digital hardware for real-time operation.
 
 ## Features
 
